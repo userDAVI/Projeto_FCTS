@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "project-name",
-    "project_version":    "1b1b1a7",
+    "project_version":    "d826220-dirty",
     "project_path":       "C:/Users/davii/Documents/GitHub/Projeto_FCTS/project-name",
     "idf_path":           "C:/Users/davii/esp/v5.3.2/esp-idf",
     "build_dir":          "C:/Users/davii/Documents/GitHub/Projeto_FCTS/project-name/build",
