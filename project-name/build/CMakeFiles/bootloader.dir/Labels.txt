@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/davii/Documents/GitHub/Projeto_FCTS/project-name/build/CMakeFiles/bootloader
+C:/Users/davii/Documents/GitHub/Projeto_FCTS/project-name/build/CMakeFiles/bootloader.rule
+C:/Users/davii/Documents/GitHub/Projeto_FCTS/project-name/build/CMakeFiles/bootloader-complete.rule
+C:/Users/davii/Documents/GitHub/Projeto_FCTS/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/davii/Documents/GitHub/Projeto_FCTS/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/davii/Documents/GitHub/Projeto_FCTS/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/davii/Documents/GitHub/Projeto_FCTS/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/davii/Documents/GitHub/Projeto_FCTS/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/davii/Documents/GitHub/Projeto_FCTS/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/davii/Documents/GitHub/Projeto_FCTS/project-name/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
